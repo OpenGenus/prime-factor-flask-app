@@ -2,6 +2,8 @@
 
 ![Prime Factorization Application Screenshot](https://ik.imagekit.io/8mch78q847k/prime-factorization-demo_XuHZZrAL9.png?ik-sdk-version=javascript-1.4.3&updatedAt=1677315114588)
 
+Understand how this application has been developed step by step: [**Step-by-Step Guide**](https://iq.opengenus.org/prime-factorization-web-application/)
+
 A flask web application for prime factorizing integers. The focus of this project is centered around prime factorization.
 Developing it as a web application is a means of extending the application service to the public but the core function is prime factorization. A modular approach has been followed to ease reuse and separate business logic from presentation logic.
 
