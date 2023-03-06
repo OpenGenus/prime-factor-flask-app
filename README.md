@@ -5,7 +5,7 @@
 A flask web application for prime factorizing integers. The focus of this project is centered around prime factorization.
 Developing it as a web application is a means of extending the application service to the public but the core function is prime factorization. A modular approach has been followed to ease reuse and separate business logic from presentation logic.
 
-The application uses the [Pollard's Rho algorithm](https://en.wikipedia.org/wiki/Pollard%27s_rho_algorithm) with a flavor of Floyd's cycle detection algorithm. The implementation
+The application uses the [Pollard's Rho algorithm](https://iq.opengenus.org/pollards-rho-algorithm/) with a flavor of Floyd's cycle detection algorithm. The implementation
 of the Pollard Rho algorithm is in the file 'prime_factorization.py' and the web application is
 contained in the 'app.py' file.
 
