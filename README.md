@@ -1,4 +1,4 @@
-# Pollard's Rho Prime Factorization
+# Flask Web Application for Prime Factorization
 
 ![Prime Factorization Application Screenshot](https://ik.imagekit.io/8mch78q847k/prime-factorization-demo_XuHZZrAL9.png?ik-sdk-version=javascript-1.4.3&updatedAt=1677315114588)
 
